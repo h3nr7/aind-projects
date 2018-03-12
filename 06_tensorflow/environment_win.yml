@@ -73,8 +73,7 @@ dependencies:
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.9
   - protobuf==3.2.0
-  - tensorflow==1.0.0
+  - tensorflow==1.6.0
   - tqdm==4.11.2
   - win-unicode-console==0.5
 prefix: C:\Users\Mat\Anaconda3\envs\dlnd-tf-lab
-
