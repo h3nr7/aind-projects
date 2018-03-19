@@ -1,2 +1,2 @@
-# aind-projects
-This is a collection of all AIND projects revisit
+## AIND Projects
+This is a collection of all AI Nanodegree projects revisitedand documented.  
